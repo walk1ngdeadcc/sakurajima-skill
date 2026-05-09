@@ -130,3 +130,13 @@ sakurajima-mai-perspective/
 ## 免责声明
 
 本项目是个人本地使用导向的非官方同人 Skill，仅用于角色风格化互动和创作练习。所有角色相关设定归原版权方所有。
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=walk1ngdeadcc%2Fsakurajima-skill&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=walk1ngdeadcc/sakurajima-skill&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=walk1ngdeadcc/sakurajima-skill&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=walk1ngdeadcc/sakurajima-skill&type=date&legend=top-left" />
+ </picture>
+</a>

@@ -141,4 +141,4 @@ sakurajima-mai-perspective/
  </picture>
 </a>
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=806605675&bvid=BV1h34y1Z7Cq&cid=440079766&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+[![国内第一个单排猎杀！](http://i0.hdslb.com/bfs/archive/845f8788ebcadd60c408b47cbb1968bbf6b778e2.jpg)](https://www.bilibili.com/video/BV1h34y1Z7Cq)

@@ -140,5 +140,3 @@ sakurajima-mai-perspective/
    <img alt="Star History Chart" src="https://img.shields.io/github/stars/songxf1024/GIMS?color=green&style=social" />
  </picture>
 </a>
-
-[![国内第一个单排猎杀！](http://i0.hdslb.com/bfs/archive/845f8788ebcadd60c408b47cbb1968bbf6b778e2.jpg)](https://www.bilibili.com/video/BV1h34y1Z7Cq)
